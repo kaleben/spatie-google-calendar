@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-google-calendar",
+    "name": "kaleben/spatie-google-calendar",
     "description": "Manage events on a Google Calendar",
     "keywords": [
         "spatie",
@@ -9,7 +9,7 @@
         "schedule",
         "laravel-google-calendar"
     ],
-    "homepage": "https://github.com/spatie/laravel-google-calendar",
+    "homepage": "https://github.com/kaleben/spatie-google-calendar",
     "license": "MIT",
     "authors": [
         {
@@ -21,9 +21,7 @@
     ],
     "require": {
         "php": "^7.2|^8.0",
-        "google/apiclient": "^2.2",
-        "illuminate/support": "^6.0|^7.0|^8.0|^9.0",
-        "nesbot/carbon": "^2.0"
+        "google/apiclient": "^2.2"
     },
     "require-dev": {
         "mockery/mockery": "^1.3.3|^1.4",
